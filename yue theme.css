@@ -7,7 +7,7 @@
 * @Source https://github.com/ClearVision/ClearVision-v6
 * @website https://betterdiscord.app/theme/ClearVision
 */
-@import url("https://clearvision.gitlab.io/v6/main.css");
+@import url("https://clearvision.github.io/ClearVision-v6/main.css");
 @import url('https://fonts.googleapis.com/css2?family=Yuji+Boku');
 :root {
 --main-color: #7B1AE6FF;
@@ -40,11 +40,11 @@
 --background-grayscale: 0%;
 --background-sepia: 0%;
 --background-blur: 0px;
---home-icon: url('https://clearvision.gitlab.io/icons/discord.svg');
+--home-icon: url('https://clearvision.github.io/icons/discord.svg');
 --home-position: center;
 --home-size: 40px;
 --background-overlay: #00000099;
---backdrop-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--backdrop-image: url('https://clearvision.github.io/images/sapphire.jpg');
 --backdrop-image: center;
 --backdrop-size: cover;
 --backdrop-repeat: repeat;
@@ -56,7 +56,7 @@
 --backdrop-grayscale: 0%;
 --backdrop-sepia: 0%;
 --backdrop-blur: 0px;
---user-popout-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
 --user-popout-image: center;
 --user-popout-size: cover;
 --user-popout-repeat: repeat;
@@ -69,7 +69,7 @@
 --user-popout-sepia: 0%;
 --user-popout-blur: 0px;
 --user-popout-overlay: #000000a6;
---user-modal-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
 --user-modal-image: center;
 --user-modal-size: cover;
 --user-modal-repeat: repeat;
